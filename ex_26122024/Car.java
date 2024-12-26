@@ -1,9 +1,12 @@
 package ex_26122024;
 
+
+
 public class Car {
     String Name;
     String Model;
     int Speed;
+    
 
     public void startEngine(String name, String model, int speed){
 
